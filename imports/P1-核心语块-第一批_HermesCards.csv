@@ -1,0 +1,43 @@
+front,back,context,source,tag,type,flipped
+想说但卡住了，先给自己争取 3 秒,Let me think for a second.,A: What do you think? — B: Let me think for a second... I'd say the black one.,P1 救急缓冲句 W1,救急缓冲,speaking,0
+没听清，请对方再说一遍,"Sorry, could you say that again?","Sorry, could you say that again? I didn't catch it.",P1 救急缓冲句 W1,救急缓冲,speaking,0
+对方说太快了，请他慢一点,"Could you speak a little slower, please?","Could you speak a little slower, please? My English is still a work in progress.",P1 救急缓冲句 W1,救急缓冲,speaking,0
+想不起某个词，用描述绕过去,It's like... / It's a kind of...,It's a kind of stand that holds your phone — like a small arm.,P1 救急缓冲句 W1,救急缓冲,speaking,0
+想不起词时，直接问对方怎么说,How do you say 充电宝 in English?,How do you say 充电宝 in English? — A power bank.,P1 救急缓冲句 W1,救急缓冲,speaking,0
+听懂了但不确定，想确认一下,Do you mean ... ?,Do you mean the phone is out of stock?,P1 救急缓冲句 W1,救急缓冲,speaking,0
+自己讲乱了，换个说法重讲,Let me put it this way: ...,"Let me put it this way — it's cheaper, but it breaks easily.",P1 救急缓冲句 W1,救急缓冲,speaking,0
+脑子空白，先表明自己在努力组织语言,What I'm trying to say is ...,"What I'm trying to say is, it's not about the price.",P1 救急缓冲句 W1,救急缓冲,speaking,0
+听不懂某个单词，请对方拼出来,Could you spell that for me?,Could you spell that for me? — M-O-D-E-L.,P1 救急缓冲句 W1,救急缓冲,speaking,0
+跑题了，想把话拉回重点,"Where was I? / Anyway, ...","Anyway, the point is the battery lasts longer.",P1 救急缓冲句 W1,救急缓冲,speaking,0
+顾客进店，3 秒内打招呼,Hi there! Let me know if you need help.,（顾客进门）Hi there! Let me know if you need any help.,小米之家 · 店内接待脚本 Day1,店内接待,speaking,0
+主动询问顾客需求,Are you looking for anything in particular?,"Are you looking for anything in particular, or just browsing?",小米之家 · 店内接待脚本 Day1,店内接待,speaking,0
+介绍产品的主打卖点,The main thing about this one is ...,The main thing about this one is the battery — it lasts two days.,小米之家 · 店内接待脚本 Day1,店内接待,speaking,0
+说明产品有几种颜色,It comes in four colors.,"It comes in four colors: white, black, pink and blue.",小米之家 · 店内接待脚本 Day1（Day1 取样错句修正）,店内接待,speaking,0
+说明电池容量与续航,"Its battery is 10,000 mAh.","Its battery is 10,000 mAh — it lasts about two days.",小米之家 · 店内接待脚本 Day1,店内接待,speaking,0
+说明价格,"It goes for 2,999 yuan.","The base model goes for 2,999 yuan.",小米之家 · 店内接待脚本 v1,店内接待,speaking,0
+说明有货 / 缺货,It's in stock. / It's out of stock.,"The white one is out of stock, but we can get it in three days.",小米之家 · 店内接待脚本 v1,店内接待,speaking,0
+说明保修政策,It comes with a one-year warranty.,"It comes with a one-year warranty, and you can extend it to two.",小米之家 · 店内接待脚本 v1,店内接待,speaking,0
+请顾客稍等，去查一下,Give me one second — I'll check for you.,"Give me one second, I'll check the back for you.",小米之家 · 店内接待脚本 v1,店内接待,speaking,0
+推荐某一个（我更建议这个）,"If it were me, I'd go with ...","If it were me, I'd go with the bigger screen.",小米之家 · 店内接待脚本 v1,店内接待,speaking,0
+结账引导,You can pay over here. Cash or card?,"You can pay over here — cash, card, or phone, all fine.",小米之家 · 店内接待脚本 v1,店内接待,speaking,0
+遇到解决不了的问题，找同事,Let me get my colleague.,Let me get my colleague — he knows this model better than I do.,小米之家 · 店内接待脚本 v1,店内接待,speaking,0
+别人问 How are you，自然回法,"Pretty good — a bit tired, but good.","A: How's it going? — B: Pretty good, a bit tired, but good.",P1 日常寒暄 v1,日常寒暄,speaking,0
+回答完把球踢回给对方,How about you?,I'm doing great. How about you?,P1 日常寒暄 v1,日常寒暄,speaking,0
+说明自己在上班、很忙,It's been a long day.,Sorry I'm slow today — it's been a long day.,P1 日常寒暄 v1,日常寒暄,speaking,0
+介绍自己的职业,I work at a Xiaomi store.,I work at a Xiaomi store — I'm basically on my feet all day.,P1 日常寒暄 v1,日常寒暄,speaking,0
+说明今天的班次,I'm on a twelve-hour shift today.,"I'm on a twelve-hour shift today, so I'm free in the morning.",P1 日常寒暄 v1,日常寒暄,speaking,0
+坦白自己英语还在练,My English is still a work in progress.,Bear with me — my English is still a work in progress.,P1 日常寒暄 v1,日常寒暄,speaking,0
+表示自己大概听懂了,I think I follow you.,"So it's cheaper online? — Yeah, I think I follow you.",P1 日常寒暄 v1,日常寒暄,speaking,0
+表示有道理 / 我同意,That makes sense.,"So you'd rather wait? — Yeah, that makes sense.",P1 日常寒暄 v1,日常寒暄,speaking,0
+表示我不太确定,"I'm not a hundred percent sure, but ...","I'm not a hundred percent sure, but I think it's on the second floor.",P1 日常寒暄 v1,日常寒暄,speaking,0
+表示我会查一下,Let me look it up.,Not sure about the price — let me look it up and get back to you.,P1 日常寒暄 v1,日常寒暄,speaking,0
+表示我稍后答复你,I'll get back to you.,Not sure about the price — I'll get back to you this afternoon.,P1 日常寒暄 v1,日常寒暄,speaking,0
+没听懂对方的梗或笑点,I didn't get that — is it a joke?,"Sorry, I didn't get that. Is it a joke?",P1 日常寒暄 v1,日常寒暄,speaking,0
+送客 / 结束对话,Thanks for coming in! Have a good one.,Thanks for coming in! Have a good one.,小米之家 · 店内接待脚本 v1,店内接待,speaking,0
+想结束一段聊天（礼貌）,I should get going. Talk soon!,I should get going — I've got an early shift. Talk soon!,P1 日常寒暄 v1,日常寒暄,speaking,0
+约下次聊,Let's catch up later.,"I'm busy now, but let's catch up later this week.",P1 日常寒暄 v1,日常寒暄,speaking,0
+夸对方的表达方式,That's a good way to put it.,'A work in progress' — that's a good way to put it.,P1 日常寒暄 v1,日常寒暄,speaking,0
+强调最重要的是什么,"The thing is, ...","The thing is, I can't take days off in a row.",P1 观点表达 v1,观点表达,speaking,0
+表达自己的看法,I'd say ...,I'd say the battery matters more than the camera.,P1 观点表达 v1,观点表达,speaking,0
+部分同意对方,"I see what you mean, but ...","I see what you mean, but I still think it's overpriced.",P1 观点表达 v1,观点表达,speaking,0
+举例子，避免空讲,"For example, ... / Like, ...","It's handy — like, you can charge your phone anywhere.",P1 观点表达 v1,观点表达,speaking,0
